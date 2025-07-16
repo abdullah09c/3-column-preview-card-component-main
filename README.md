@@ -106,5 +106,3 @@ A responsive card component solution for the [Frontend Mentor challenge](https:/
 This project is part of a Frontend Mentor challenge and is for educational purposes.
 
 ---
-
-**Frontend Mentor** - [@abdullah09c](https://www.frontendmentor.io/profile/abdullah09c)
