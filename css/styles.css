@@ -46,6 +46,13 @@ body {
   background-color: hsl(179, 100%, 13%);
 }
 
+/* Card icons */
+.card-icon {
+  width: 75px;
+  height: 48px;
+  margin-bottom: 35px;
+}
+
 /* Typography */
 h1 {
   font-family: 'Big Shoulders', sans-serif;
